@@ -17,7 +17,8 @@ Dependencies: JQuery
 <br>
 <ol>
   <li>Include the dependency (jquery)</li>
-  <li>Call the function mdalert.alert(title,text)</li>
+  <li>Include files: <strong>md-alert.css</strong> and <strong>md-alert.css<strong></li>
+  <li>Call the function <strong>mdalert.alert("Title","Text to display")</strong> when required</li>
 </ol>
 <br>Usage Example:
 <br>
