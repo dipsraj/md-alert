@@ -8,13 +8,12 @@ let mdalert = function () {
             "    <div class=\"modal-content enter-alert\">\n" +
             "        <h3 class=\"modal-title\"></h3>\n" +
             "        <h6 class=\"modal-text\"></h6>\n" +
-            "        <button class=\"modal-button\" id='modal-button' autofocus='autofocus' >OK</button>\n" +
+            "        <button class=\"modal-button\" id='modal-button' >OK</button>\n" +
             "    </div>\n" +
             "</div>";
 
         $("body").append(alertDiv);
-
-        // alertDiv.appendTo($("body")).slideDown("fast");
+        $('#modal-button').focus();
 
         $(".modal-title").text(title);
         $(".modal-text").text(text);
