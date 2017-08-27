@@ -47,10 +47,7 @@
     width: 50px;
     font-size: 16px;
     font-weight: 800;
-    margin-top: 20px;
-    margin-bottom: 8px;
-    margin-left: 260px;
-    margin-right: 20px;
+    margin: 20px 20px 8px 260px;
     color: #2962FF;
     transition: all 0.3s ease;
 }
