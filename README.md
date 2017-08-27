@@ -13,7 +13,7 @@ Dependencies: JQuery
 <br>
 <ol>
   <li>Include the dependency (jquery).</li>
-  <li>Link the files: <strong>md-alert.css</strong> and <strong>md-alert.css</strong> from dist folder.</li>
+  <li>Link the files: <strong>md-alert.css</strong> and <strong>md-alert.js</strong> from dist folder.</li>
   <li>Call the function <strong>mdalert.alert(title,text);</strong> when required.</li>
 </ol>
 <a href="https://www.w3schools.com/css/css_howto.asp" target="_blank">How to Link a .css file?</a>
