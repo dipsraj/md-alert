@@ -1,0 +1,90 @@
+.md-modal{
+    /*display: none;*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    /*padding-top: 100px;*/
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+    z-index: 20;
+    transition: all 0.3s ease;
+}
+.modal-content{
+    position: relative;
+    margin: auto;
+    height: 200px;
+    width: 320px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, .50);
+    background-color: #fff;
+    color: #fff;
+}
+.modal-title{
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    color: #111;
+    font-size: 20px;
+    font-weight: 600;
+}
+.modal-text{
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 300;
+}
+.modal-button{
+    border: none;
+    background-color: #fff;
+    height: 30px;
+    width: 50px;
+    float: right;
+    font-size: 16px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: #304FFE;
+    transition: all 0.3s ease;
+}
+.modal-button:hover{
+    box-shadow: 0 6px 15px rgba(0, 0, 0, .50);
+    color: #fff;
+    background-color: #304FFE;
+}
+
+@keyframes enterAlert {
+    0%{
+        transform: translateY(-300px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+
+.enter-alert{
+    animation-duration: 0.3s;
+    animation-timing-function: ease;
+    animation-fill-mode: both;
+    animation-name: enterAlert;
+}
+
+@keyframes exitAlert {
+    0%{
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(-300px);
+    }
+}
+
+.exit-alert{
+    animation-duration: 0.3s;
+    animation-timing-function: ease;
+    animation-fill-mode: both;
+    animation-name: exitAlert;
+}
