@@ -6,14 +6,9 @@
 Dependencies: JQuery
 <br>Google CDN Link: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 <br>Microsoft CDN: https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"
-<br>Example:
-<br>
-<pre>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-</pre>
 <br>
 <br>
-<br>How To Use:
+<br><strong>How To Use:</strong>
 <br>
 <ol>
   <li>Include the dependency (jquery)</li>
