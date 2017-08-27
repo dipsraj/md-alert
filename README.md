@@ -25,3 +25,9 @@ Dependencies: JQuery
 <pre>
 mdalert.alert("Message","Successfully Uploaded File");
 </pre>
+<br>
+<br>
+<br>
+<strong>Screenshot:</strong>
+<br>
+![Alt text](https://github.com/dipsraj/md-alert/blob/master/screenshot.png "Optional title")
