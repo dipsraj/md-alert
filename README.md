@@ -24,7 +24,9 @@ mdalert.alert("Message","Successfully Uploaded File");
 <br>
 <br>
 <strong>Demo:</strong>
-<a style="font-size:30px" href="https://rawgit.com/dipsraj/md-alert/master/index.html">demo md-alert</a>
+<br>
+<a href="https://dipsraj.github.io/md-alert/">Demo md-alert</a>
+<br>
 <br>
 <strong>Screenshot:</strong>
 <br>
