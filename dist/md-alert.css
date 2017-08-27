@@ -56,6 +56,9 @@
     color: #fff;
     background-color: #304FFE;
 }
+.modal-button:focus{
+    outline: none;
+}
 
 @keyframes enterAlert {
     0%{
