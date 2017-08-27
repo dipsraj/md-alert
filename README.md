@@ -7,18 +7,22 @@ Dependencies: JQuery
 <br>Google CDN Link: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 <br>Microsoft CDN: https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js
 <br>
+<a href="https://www.w3schools.com/jquery/jquery_get_started.asp" target="_blank">How to Link or Download JQuery?</a>
 <br>
 <br><strong>How To Use:</strong>
 <br>
 <ol>
   <li>Include the dependency (jquery).</li>
-  <li>Include files: <strong>md-alert.css</strong> and <strong>md-alert.css</strong> from dist folder.</li>
+  <li>Link the files: <strong>md-alert.css</strong> and <strong>md-alert.css</strong> from dist folder.</li>
   <li>Call the function <strong>mdalert.alert(title,text);</strong> when required.</li>
 </ol>
-<br><strong>Usage Example:</strong>
+<a href="https://www.w3schools.com/css/css_howto.asp" target="_blank">How to Link a .css file?</a>
 <br>
+<a href="https://www.w3schools.com/js/js_whereto.asp" target="_blank">How to Link a .js file?</a>
+<br>
+<br><strong>Usage Example:</strong>
 <pre>
-mdalert.alert("Message","Successfully Uploaded File");
+mdalert.alert("Success","File Upload Complete");
 </pre>
 <br>
 <br>
