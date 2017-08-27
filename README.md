@@ -30,4 +30,4 @@ mdalert.alert("Message","Successfully Uploaded File");
 <br>
 <strong>Screenshot:</strong>
 <br>
-![Alt text](https://github.com/dipsraj/md-alert/blob/master/screenshot.png "Optional title")
+<img src="https://raw.githubusercontent.com/dipsraj/md-alert/master/screenshot.png">
