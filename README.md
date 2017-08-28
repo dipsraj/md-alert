@@ -20,12 +20,15 @@ Dependencies: JQuery
 <br>
 <a href="https://www.w3schools.com/js/js_whereto.asp" target="_blank">How to Link a .js file?</a>
 <br>
-<br><strong>Usage Example:</strong>
+<h4>You can link the files directly from:</h4>
+<code>
+<pre>
+<a href="http://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css">http://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css</a>
 <br>
-```html
-<link rel="stylesheet" href="http://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css">
-<script src="http://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js"></script>
-```
+<a href="http://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js">http://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js</a>
+</pre>
+</code>
+<br><strong>Usage Example:</strong>
 <br>
 <pre>
 mdalert.alert("Success","File Upload Complete");
