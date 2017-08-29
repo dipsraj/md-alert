@@ -23,9 +23,9 @@ Dependencies: JQuery
 <h4>You can link the files directly from:</h4>
 <code>
 <pre>
-<a href="http://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css">http://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css</a>
+<a href="https://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css">https://rawgit.com/dipsraj/md-alert/master/docs/css/md-alert.css</a>
 <br>
-<a href="http://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js">http://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js</a>
+<a href="https://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js">https://rawgit.com/dipsraj/md-alert/master/docs/js/md-alert.js</a>
 </pre>
 </code>
 <br><strong>Usage Example:</strong>
